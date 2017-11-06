@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_3/Project#3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_70a02/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_70a02.dir/build.make CMakeFiles/cmTC_70a02.dir/build
+make[1]: *** No rule to make target `/Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_3/Project', needed by `CMakeFiles/cmTC_70a02.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_70a02/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_3/Project#3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_88d38/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_88d38.dir/build.make CMakeFiles/cmTC_88d38.dir/build
+make[1]: *** No rule to make target `/Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_3/Project', needed by `CMakeFiles/cmTC_88d38.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_88d38/fast] Error 2
+
+
+
