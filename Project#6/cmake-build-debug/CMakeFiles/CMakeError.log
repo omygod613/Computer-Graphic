@@ -1,0 +1,91 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_6/Project#6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fa549/fast"
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_6/Project#6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1c6e1/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_1c6e1.dir/build.make CMakeFiles/cmTC_1c6e1.dir/build
+make[1]: *** No rule to make target `/Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_6/Project', needed by `CMakeFiles/cmTC_1c6e1.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_1c6e1/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_6/Project#6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_287a7/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_287a7.dir/build.make CMakeFiles/cmTC_287a7.dir/build
+make[1]: *** No rule to make target `/Users/eason/Documents/OSU/2017_Fall_Term/CS550/Project_6/Project', needed by `CMakeFiles/cmTC_287a7.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_287a7/fast] Error 2
+
+
+
