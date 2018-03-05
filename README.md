@@ -1,4 +1,1 @@
-# computer-graphic
-# computer-graphic
-# computer-graphic
-# computer-graphic
+# cifar_2class
