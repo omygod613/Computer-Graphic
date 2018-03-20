@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++11 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project_5.dir/glslprogram.cpp.o CMakeFiles/Project_5.dir/sample.cpp.o  -o ../Project_5 -framework OpenGL -framework GLUT -framework Cocoa 
